@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3VGqDIzB7dxZ7QzIamwANbW9dstr34oPT2q8LAEjbGUC6E+03R5pUNKAg3wJatd3hI+64lD2f4Uxh+jR4N9fDg==",
+  "success": true,
+  "projectFilePath": "C:\\AZURE 204\\Blobs\\Alertas\\Alertas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\miwin\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\miwin\\.nuget\\packages\\telegram.bot\\18.0.0\\telegram.bot.18.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
